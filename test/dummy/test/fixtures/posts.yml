@@ -1,0 +1,14 @@
+active_post1:
+  title: "Title1"
+  body: "Body1"
+  active: true
+
+active_post2:
+  title: "Title2"
+  body: "Body1"
+  active: true
+
+inactive_post:
+  title: "Title2"
+  body: "Body2"
+  active: false
